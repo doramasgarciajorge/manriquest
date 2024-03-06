@@ -8,9 +8,9 @@ It was built using the Unity game engine and royalty-free internet resources.
 
 ## Images
 
-![image](media/manriquest_01.png)
-![image](media/manriquest_02.png)
-![image](media/manriquest_03.png)
-![image](media/manriquest_04.png)
-![image](media/manriquest_05.png)
-![image](media/manriquest_06.png)
+![image](.github/media/manriquest_01.png)
+![image](.github/media/manriquest_02.png)
+![image](.github/media/manriquest_03.png)
+![image](.github/media/manriquest_04.png)
+![image](.github/media/manriquest_05.png)
+![image](.github/media/manriquest_06.png)
